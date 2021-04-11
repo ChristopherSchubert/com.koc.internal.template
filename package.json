@@ -1,0 +1,24 @@
+{
+  "name": "com.koc.internal_template",
+  "displayName": "KOC - Internal Template",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "description": "This is a template package.",
+  "keywords": [
+    "Scripts",
+    "Template", 
+    "Tool"
+  ],
+  "category": "Tool",
+  "license": "MIT",
+  "author": {
+    "name": "Chris Schubert"
+  },
+  "dependencies": {
+    "com.unity.ext.nunit": "1.0.0"
+  },
+  "repository": {
+    "url": "https://github.com/ChristopherSchubert/com.koc.unity.internal_template.git",
+    "type": "git"
+  }
+}
